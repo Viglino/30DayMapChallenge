@@ -10,6 +10,22 @@
 #   year        - challenge year the collection covers (required)
 #   description - one short sentence about it          (optional)
 
+
+- creator: Jean-Marc Viglino
+  link: https://viglino.github.io/MapChallenge2025/
+  year: 2025
+  description: Maps for the 2025 challenge, poster and likns to interactive maps.
+  
+- creator: Jean-Marc Viglino
+  link: https://viglino.github.io/MapChallenge2024/
+  year: 2024
+  description: Maps for the 2024 challenge, poster and likns to interactive maps.
+  
+- creator: Jean-Marc Viglino
+  link: https://viglino.github.io/MapChallenge2023/
+  year: 2023
+  description: Maps for the 2023 challenge, poster and likns to interactive maps.
+  
 - creator: Federica Gazzelloni
   link: https://fgazzelloni.github.io/30DayMapChallenge/
   year: 2025
@@ -261,7 +277,7 @@
   description: A Stamen studio retrospective spotting trends across the 2023 challenge.
 
 - creator: Makina Corpus
-  link: https://makina-corpus.com/sig-cartograph/retour-30daymapchallenge-2023
+  link: https://makina-corpus.com/sig-cartographie/retour-30daymapchallenge-2023
   year: 2023
   description: A French-language Makina Corpus review of the 2023 challenge, with team favourites and stats.
 
